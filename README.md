@@ -5,7 +5,7 @@
 **Building full-stack web apps with Django, Python & Tailwind CSS**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F59E0B?style=for-the-badge&logo=vercel&logoColor=white)](https://brayden-aaron-santoso.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-aaron-santoso-351010434/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brayden-aaron-santoso)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:B.AaronSantoso@gmail.com)
 
 </div>
