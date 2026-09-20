@@ -14,27 +14,27 @@
 
 ## About
 
-I'm a Computer Science student at **The Hong Kong Polytechnic University** building full-stack web applications with **Django + Python** on the backend and **Tailwind CSS** on the frontend. Every project here is shipped and built from scratch, not a tutorial.
+I'm a Computer Science student at **The Hong Kong Polytechnic University** building full-stack web applications with **Django + Python** on the backend and **Tailwind CSS** on the frontend. 
 
 - **Based in:** Hong Kong
-- **Looking for:** SWE internships — Winter or Summer start
-- **Currently learning:** React, Render, Docker
+- **Looking for:** All types of internships — Winter or Summer start
+- **Currently learning:** React and Vercel
 
 ---
 
 ## Featured Projects
 
-### 🧾 [BillShare](https://github.com/SalmonFlight/BillShare)
+### [BillShare](https://github.com/SalmonFlight/BillShare)
 **Django · Python · Tailwind · SQLite**
 
 A Django app for splitting shared bills fairly. Hosts create rooms, members log orders, and the app computes each person's share with proportional tax and tip. Includes per-object permissions, exact decimal rounding, and an account-less guest system with claim codes.
 
-### 🏋️ [Fitness Progress Tracker](https://github.com/SalmonFlight/Fitness-Progress-Tracker)
+### [Fitness Progress Tracker](https://github.com/SalmonFlight/Fitness-Progress-Tracker)
 **Django · Python · Tailwind · SQLite**
 
 A Django workout tracker with automatic personal-record detection via `post_save` signals. Users can save workouts as drafts, cancel changes with session snapshots, and view progress on a dashboard. Full authentication and per-user data isolation.
 
-### 💰 [Expense Tracker CLI](https://github.com/SalmonFlight/CLIExpenseTracker)
+### [Expense Tracker CLI](https://github.com/SalmonFlight/CLIExpenseTracker)
 **Python · JSON · Standard Library**
 
 A terminal expense tracker built with only Python's standard library. Features JSON persistence, pagination, category filtering, and full input validation. No external dependencies.
